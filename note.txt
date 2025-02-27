@@ -1,0 +1,49 @@
+<div class="p-5 bg-white dark:bg-zinc-700 shadow-normal rounded-2xl">
+                        <div class="relative mb-2 md:mb-5">
+                            <img class="w-32 mx-auto md:w-auto" src="images/products/p1.png" loading="lazy" alt="p1.png">
+                            <span class="absolute top-1.5 right-1.5 block h-5 md:h-[30px] text-xs/[24px] md:text-base/[34px] font-danaDemiBold bg-orange-300 text-white dark:text-zinc-700 px-2.5 md:px-3.5 rounded-full">12%</span>
+                        </div>
+                        <h5 class="font-danaMedium -h-10 md:-h-14 text-sm md:text-xl text-zinc-700 dark:text-white line-clamp-2">قهوه ترک بن مانو مقدار 250 گرم خط دوم اسم طولانی</h5>
+                        <div class="xs:flex gap-x-2 md:gap-x-2.5 mt-1.5 md:mt-2.5">
+                            <div class="text-teal-600 dark:text-emerald-500">
+                                <span class="font-danaDemiBold text-base md:text-xl">154,000</span>
+                                <span class="text-xs md:text-sm tracking-tighter">تومان</span>
+                            </div>
+                            <div>
+                                <span class="offer text-gray-400 relative text-xs md:text-xl">175,000</span>
+                                <span class="hidden text-gray-400 xl:inline text-sm tracking-tighter">تومان</span>
+                            </div>
+                        </div>
+                        <div class="mt-2.5 flex-wrap flex justify-between items-center">
+                            <div class="flex items-center gap-x-2.5 md:gap-x-3 ">
+                                <span class="flex-center w-[26px] h-[26px] md:w-9 md:h-9 rounded-full text-gray-400 bg-gray-100 hover:bg-teal-600 dark:bg-zinc-800 dark:hover:bg-emerald-500 hover:text-white cursor-pointer transition-all">
+                                    <svg class="w-4 h-4 md:w-[22px] md:h-[22px]">
+                                        <use href="#shopping-cart"></use>
+                                    </svg>
+                                </span>
+                                <span class="block rounded-full text-gray-400 hover:text-teal-600
+                                dark:hover:text-emerald-500 cursor-pointer transition-all">
+                                    <svg class="w-4 h-4 md:w-6 md:h-6">
+                                        <use href="#arrows-right-left"></use>
+                                    </svg>
+                                </span>
+                            </div>
+                            <div class="mt-3 xs:mt-0 text-yellow-400 flex">
+                                <svg class="size-4 md:size-6 text-gray-300 dark:text-gray-400">
+                                    <use href="#star"></use>
+                                </svg>
+                                <svg class="size-4 md:size-6">
+                                    <use href="#star"></use>
+                                </svg>
+                                <svg class="size-4 md:size-6">
+                                    <use href="#star"></use>
+                                </svg>
+                                <svg class="size-4 md:size-6">
+                                    <use href="#star"></use>
+                                </svg>
+                                <svg class="size-4 md:size-6">
+                                    <use href="#star"></use>
+                                </svg>
+                            </div>
+                        </div>
+                    </div>
